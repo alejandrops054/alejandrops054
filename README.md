@@ -16,8 +16,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-## 📊 Lenguajes más utilizados  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)  
+### 🛠️ Distribución por proyectos  
+- **PHP:** 40%  
+- **JavaScript:** 60%  
+
+---
 
 ## 🛠️ Tecnologías y herramientas  
 - **Lenguajes:**  
