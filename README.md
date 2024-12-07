@@ -40,7 +40,8 @@
 
 ## 🌐 Conecta conmigo  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-p%C3%A8rez-s%C3%A0nchez-7a2a4081/)  
-- ✉️ alejandro.perez@example.com  
+- ✉️ alejandro.perez@s2developer.com
+- ✉️ alejandrops95@outlook.com
 
 ---
 
