@@ -35,14 +35,6 @@
   
   ---
 
-## 🚀 Proyectos destacados  
-### 🌟 [Sistema de Control Financiero](https://github.com/tuusuario/proyecto-1)  
-> Generación automatizada de estados financieros como resultados y flujos de caja.  
-
-### 📊 [Visualización de Ventas Estimadas](https://github.com/tuusuario/proyecto-2)  
-> Herramienta para visualización de datos de ventas estimadas en gráficos interactivos.  
-
----
 ## 🌐 Conecta conmigo  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-p%C3%A8rez-s%C3%A0nchez-7a2a4081/)  
 - ✉️ alejandro.perez@example.com  
