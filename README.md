@@ -1,5 +1,5 @@
 # 💻 Hola, soy Alejandro Pérez Sánchez! 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7521E&width=435&lines=Desarrollador+Web+con+9+a%C3%B1os+de+experiencia;Especializado+en+PHP+%26+JavaScript;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&width=435&lines=Desarrollador+Web+con+9+a%C3%B1os+de+experiencia;Especializado+en+PHP+%26+JavaScript;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)](https://git.io/typing-svg)  
 
 ¡Bienvenido a mi perfil de GitHub! Soy un **desarrollador web con 9 años de experiencia**, apasionado por construir sistemas eficientes y modernos que optimicen procesos y solucionen problemas empresariales. 🚀  
  
